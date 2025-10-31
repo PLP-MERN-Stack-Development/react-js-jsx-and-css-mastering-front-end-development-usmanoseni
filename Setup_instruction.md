@@ -4,7 +4,7 @@ A responsive React application built with Vite and Tailwind CSS that demonstrate
 
 ## 🚀 Live Demo
 
-[View Live Demo](your-deployed-url-here) <!-- Replace with your actual deployed URL -->
+https://usmanoseni.github.io/taskmanager-dashboard/
 
 ## ✨ Features
 
@@ -29,7 +29,7 @@ A responsive React application built with Vite and Tailwind CSS that demonstrate
 1. Clone the repository:
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/usmanoseni/taskmanager-dashboard.git
 cd [repository-name]
 ```
 
